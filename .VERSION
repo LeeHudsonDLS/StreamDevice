@@ -1,3 +1,3 @@
-commit: $Format:%h$
-$Format:%D$
-date: $Format:%ci$
+COMMIT: $Format:%H$
+REFS:   $Format:%D$
+DATE:   $Format:%ci$
